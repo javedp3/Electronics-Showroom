@@ -1,0 +1,46 @@
+
+h1 h3{
+    font-size: 5vw;
+    color:black;
+     text-align: center;
+}
+.img{
+    opacity: 0.4;
+}
+div p{
+     text-align: justify; opacity: 0.8;
+}
+.btn-space {
+    margin-right: 5px;
+margin-bottom: 5px !important;
+}.card-icon {
+  background: rgba(255,255,255,0.9);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-right: 15px;
+  text-align: center;
+}
+
+.card-icon i {
+  font-size: 48px;
+}
+.row{
+  margin: 0px !important;
+}
+
+.contact{
+  background: url("../imgs/build-for.jpg");
+  padding: 80px;
+  color:white;
+  top: 20px;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+/* .dot-background {
+	background-image: url(https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/home-page/dot-one-home-product-section.svg);
+	background-repeat: repeat;
+} */
